@@ -10,7 +10,7 @@ export PATH="/usr/local/heroku/bin:$PATH" # heroku
 export PATH="/Applications/Adobe\ Flash\ Builder\ 4.7/sdks/4.10\(AIR\ 3.9\)/bin:$PATH" # ADT
 
 # Editor
-export EDITOR="subl -w""
+export EDITOR="subl -w"
 
 # Use vim for man
 export MANPAGER="col -b | vim -c 'set ft=man ts=8 nomod nolist nonu noma' -"
