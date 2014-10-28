@@ -20,7 +20,7 @@ ZSH_THEME='themes/apod'
 DISABLE_AUTO_TITLE="true"
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.dotfiles/zsh/oh-my-zsh/plugins/
@@ -35,5 +35,12 @@ fi
 
 source $ZSH/oh-my-zsh.sh
 
+<<<<<<< HEAD
 # zsh-bd
 source $HOME/.dotfiles/zsh/plugins/bd/bd.zsh
+=======
+eval "$(rbenv init -)"
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
+>>>>>>> 42e3a214b106e878871be4d5769ff4e0fe757fcf
