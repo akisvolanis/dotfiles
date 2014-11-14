@@ -1,11 +1,11 @@
-# apod's dotfiles
+# dotfiles
 
 My dotfiles.
 
 ## Installation
 
 ```shell
-git clone https://github.com/apod/dotfiles.git ~/.dotfiles
+git clone https://github.com/charlatan154/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
