@@ -12,7 +12,7 @@
   branch = auto
 [core]
   excludesfile = ~/.gitignore
-  editor = vim
+  editor = subl -n -w
 [init]
   templatedir = ~/.dotfiles/git/template
 [apply]
