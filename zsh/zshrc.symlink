@@ -44,5 +44,5 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 export PATH="/usr/local/heroku/bin:$PATH"
 
 # Include Z
-. ~/z.sh
+#. ~/z.sh
 
